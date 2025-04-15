@@ -1,0 +1,2402 @@
+[
+  {
+    "full_name": "Edgar Matile",
+    "age": 30,
+    "gender": "Male",
+    "nationality": "Swiss-French",
+    "occupation": "Ski Instructor",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Pragmatic",
+      "Pragmatic",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 268k annual salary | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Formal written",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Isabelle Fischer",
+    "age": 61,
+    "gender": "Female",
+    "nationality": "Liechtensteiner",
+    "occupation": "Hotel Manager",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Pragmatic",
+      "Detail-oriented",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Technical",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Maria Müller",
+    "age": 33,
+    "gender": "Male",
+    "nationality": "French",
+    "occupation": "Private Wealth Manager",
+    "background": "Born in Basel",
+    "personality_traits": [
+      "Litigious",
+      "Pragmatic",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 125k annual salary | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Claire Forster",
+    "age": 66,
+    "gender": "Female",
+    "nationality": "Swiss-French",
+    "occupation": "Private Wealth Manager",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Pragmatic",
+      "Cooperative",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 1M pension assets | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Kaitlyn Bourquin",
+    "age": 45,
+    "gender": "Male",
+    "nationality": "Liechtensteiner",
+    "occupation": "Commodities Trader",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Stubborn",
+      "Pragmatic",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 203k annual salary | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Fluent English | Direct verbal",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Matthew Fonjallaz",
+    "age": 47,
+    "gender": "Male",
+    "nationality": "Austrian",
+    "occupation": "Pharmaceutical Researcher",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Detail-oriented",
+      "Detail-oriented",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 130k annual salary | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Formal written",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Corinne Pachoud",
+    "age": 75,
+    "gender": "Non-binary",
+    "nationality": "Swiss-French",
+    "occupation": "Hotel Manager",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Pragmatic",
+      "Litigious",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Formal",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "German-dominant | Direct verbal",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Timo Alvarez",
+    "age": 50,
+    "gender": "Male",
+    "nationality": "Swiss",
+    "occupation": "Commodities Trader",
+    "background": "Born in Basel",
+    "personality_traits": [
+      "Stubborn",
+      "Pragmatic",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 161k annual salary | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "German-dominant | Formal written",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute over discrimination allegations",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Jeremy Pachoud",
+    "age": 29,
+    "gender": "Female",
+    "nationality": "Liechtensteiner",
+    "occupation": "Pharmaceutical Researcher",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Pragmatic",
+      "Emotional",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Emotional",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Gary Privet",
+    "age": 38,
+    "gender": "Male",
+    "nationality": "Liechtensteiner",
+    "occupation": "Hotel Manager",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Detail-oriented",
+      "Detail-oriented",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 118k annual salary | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "German-dominant | Formal written",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Robert Furrer",
+    "age": 71,
+    "gender": "Female",
+    "nationality": "Swiss-Italian",
+    "occupation": "UN Diplomat",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Emotional",
+      "Cooperative",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 7M pension assets | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "German-dominant | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Anna Thomas",
+    "age": 62,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "Hotel Manager",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Cooperative",
+      "Litigious",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Formal",
+    "financial_status": "Substantial real estate holdings | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Fluent English | Direct verbal",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Carl Berry",
+    "age": 27,
+    "gender": "Female",
+    "nationality": "German",
+    "occupation": "UN Diplomat",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Stubborn",
+      "Pragmatic",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Formal",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Formal written",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Brandy Georges",
+    "age": 60,
+    "gender": "Non-binary",
+    "nationality": "Swiss-French",
+    "occupation": "Associate",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Detail-oriented",
+      "Stubborn",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 467k annual salary | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Italian-speaking | Technical",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Danielle Norman",
+    "age": 27,
+    "gender": "Non-binary",
+    "nationality": "Austrian",
+    "occupation": "UN Diplomat",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Stubborn",
+      "Detail-oriented",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "German-dominant | Emotional",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Danilo Tobler",
+    "age": 42,
+    "gender": "Non-binary",
+    "nationality": "German",
+    "occupation": "Ski Instructor",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Stubborn",
+      "Pragmatic",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Multilingual mix | Technical",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Megan Rodriguez",
+    "age": 42,
+    "gender": "Male",
+    "nationality": "Italian",
+    "occupation": "CERN Scientist",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Litigious",
+      "Litigious",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 239k annual salary | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Jonathan Schenk",
+    "age": 46,
+    "gender": "Non-binary",
+    "nationality": "Liechtensteiner",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Pragmatic",
+      "Stubborn",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Technical",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Adriana Peter",
+    "age": 49,
+    "gender": "Female",
+    "nationality": "Swiss-German",
+    "occupation": "International Lawyer",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Emotional",
+      "Emotional",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 148k annual salary | No debt",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "German-dominant | Technical",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Melissa Sheppard",
+    "age": 74,
+    "gender": "Non-binary",
+    "nationality": "Liechtensteiner",
+    "occupation": "Ski Instructor",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Emotional",
+      "Pragmatic",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 3M pension assets | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Formal written",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Alain Berry",
+    "age": 61,
+    "gender": "Female",
+    "nationality": "Italian",
+    "occupation": "International Lawyer",
+    "background": "Born in Basel",
+    "personality_traits": [
+      "Cooperative",
+      "Cooperative",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 3M pension assets | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "José Furrer",
+    "age": 67,
+    "gender": "Female",
+    "nationality": "Swiss-French",
+    "occupation": "International Lawyer",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Cooperative",
+      "Cooperative",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Aggressive",
+    "financial_status": "Substantial real estate holdings | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "German-dominant | Technical",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Danièle Ziegler",
+    "age": 65,
+    "gender": "Female",
+    "nationality": "Swiss-Italian",
+    "occupation": "Commodities Trader",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Stubborn",
+      "Litigious",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 8M pension assets | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Technical",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Isabella Keller",
+    "age": 73,
+    "gender": "Male",
+    "nationality": "Swiss",
+    "occupation": "Commodities Trader",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Litigious",
+      "Detail-oriented",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 5M pension assets | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Multilingual mix | Direct verbal",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Charles Knecht",
+    "age": 33,
+    "gender": "Non-binary",
+    "nationality": "German",
+    "occupation": "International Lawyer",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Cooperative",
+      "Cooperative",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 425k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute over discrimination allegations",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Jeannine Stutz",
+    "age": 58,
+    "gender": "Non-binary",
+    "nationality": "Swiss-German",
+    "occupation": "Hotel Manager",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Litigious",
+      "Emotional",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 401k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Agathe Scott",
+    "age": 68,
+    "gender": "Non-binary",
+    "nationality": "French",
+    "occupation": "Private Wealth Manager",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Litigious",
+      "Pragmatic",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 10M pension assets | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Fluent English | Technical",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute over discrimination allegations",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "René Kunz",
+    "age": 29,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "Private Wealth Manager",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Cooperative",
+      "Litigious",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 356k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Jeannette Jensen",
+    "age": 59,
+    "gender": "Female",
+    "nationality": "Austrian",
+    "occupation": "International Lawyer",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Cooperative",
+      "Stubborn",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Formal",
+    "financial_status": "Moderate savings with mortgage | No debt",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Formal written",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Spouse",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Scott Vallélian",
+    "age": 63,
+    "gender": "Non-binary",
+    "nationality": "French",
+    "occupation": "Private Wealth Manager",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Detail-oriented",
+      "Cooperative",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 3M pension assets | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Landlord",
+      "facts": "Dispute over bonus payment",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Maxime Lüscher",
+    "age": 49,
+    "gender": "Female",
+    "nationality": "Swiss-French",
+    "occupation": "UN Diplomat",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Litigious",
+      "Stubborn",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Italian-speaking | Formal written",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Raymond Robadey",
+    "age": 72,
+    "gender": "Female",
+    "nationality": "French",
+    "occupation": "Ski Instructor",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Litigious",
+      "Detail-oriented",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Italian-speaking | Formal written",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Renee Musy",
+    "age": 46,
+    "gender": "Male",
+    "nationality": "German",
+    "occupation": "Watchmaker",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Pragmatic",
+      "Pragmatic",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 213k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Veronica Berger",
+    "age": 53,
+    "gender": "Female",
+    "nationality": "Swiss-Italian",
+    "occupation": "Commodities Trader",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Detail-oriented",
+      "Stubborn",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 176k annual salary | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "German-dominant | Direct verbal",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Laura Gardner",
+    "age": 74,
+    "gender": "Non-binary",
+    "nationality": "Austrian",
+    "occupation": "Ski Instructor",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Emotional",
+      "Detail-oriented",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Aggressive",
+    "financial_status": "Substantial real estate holdings | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Emotional",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Sylvie Rappaz",
+    "age": 37,
+    "gender": "Female",
+    "nationality": "Swiss-French",
+    "occupation": "Associate",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Detail-oriented",
+      "Detail-oriented",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 229k annual salary | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "German-dominant | Formal written",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Eline Meyer",
+    "age": 27,
+    "gender": "Female",
+    "nationality": "French",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Litigious",
+      "Emotional",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 356k annual salary | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Emily Moore",
+    "age": 30,
+    "gender": "Non-binary",
+    "nationality": "Swiss-German",
+    "occupation": "UN Diplomat",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Emotional",
+      "Litigious",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 283k annual salary | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Technical",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Clayton Blaser",
+    "age": 48,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "Hotel Manager",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Emotional",
+      "Pragmatic",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Fluent English | Formal written",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute over bonus payment",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Danielle Piccand",
+    "age": 45,
+    "gender": "Male",
+    "nationality": "Swiss",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Emotional",
+      "Pragmatic",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Christine de Dardel",
+    "age": 70,
+    "gender": "Non-binary",
+    "nationality": "Swiss-French",
+    "occupation": "International Lawyer",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Litigious",
+      "Detail-oriented",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 10M pension assets | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Emotional",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "John Coigny",
+    "age": 66,
+    "gender": "Non-binary",
+    "nationality": "Austrian",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Pragmatic",
+      "Litigious",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Substantial real estate holdings | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Emotional",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute over bonus payment",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Gertrud Kunz",
+    "age": 39,
+    "gender": "Non-binary",
+    "nationality": "Swiss-German",
+    "occupation": "International Lawyer",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Litigious",
+      "Pragmatic",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 128k annual salary | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Formal written",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Anthony Madden",
+    "age": 37,
+    "gender": "Non-binary",
+    "nationality": "French",
+    "occupation": "UN Diplomat",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Cooperative",
+      "Pragmatic",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Formal written",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Tyler Paschoud",
+    "age": 49,
+    "gender": "Female",
+    "nationality": "Liechtensteiner",
+    "occupation": "Associate",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Stubborn",
+      "Litigious",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 185k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Formal written",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Eliane Robinson",
+    "age": 67,
+    "gender": "Non-binary",
+    "nationality": "German",
+    "occupation": "Associate",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Litigious",
+      "Cooperative",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 6M pension assets | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Fluent English | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Jens Hall",
+    "age": 46,
+    "gender": "Male",
+    "nationality": "Liechtensteiner",
+    "occupation": "Commodities Trader",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Litigious",
+      "Detail-oriented",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Sharon Seiler",
+    "age": 72,
+    "gender": "Female",
+    "nationality": "Liechtensteiner",
+    "occupation": "CERN Scientist",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Stubborn",
+      "Emotional",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Aggressive",
+    "financial_status": "Substantial real estate holdings | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Emotional",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Patrick Wenger",
+    "age": 73,
+    "gender": "Non-binary",
+    "nationality": "Italian",
+    "occupation": "Ski Instructor",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Litigious",
+      "Detail-oriented",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Fluent English | Formal written",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Fatmire Johnson",
+    "age": 38,
+    "gender": "Male",
+    "nationality": "Swiss-Italian",
+    "occupation": "Pharmaceutical Researcher",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Emotional",
+      "Cooperative",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Landlord",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Kelsey Boechat",
+    "age": 55,
+    "gender": "Female",
+    "nationality": "German",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Cooperative",
+      "Cooperative",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 379k annual salary | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Fluent English | Technical",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Barbara Chappuis",
+    "age": 47,
+    "gender": "Female",
+    "nationality": "Italian",
+    "occupation": "CERN Scientist",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Pragmatic",
+      "Cooperative",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "German-dominant | Direct verbal",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Claude Meyer",
+    "age": 38,
+    "gender": "Male",
+    "nationality": "Swiss",
+    "occupation": "Hotel Manager",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Pragmatic",
+      "Pragmatic",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 281k annual salary | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "French-preferring | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Cosimo Berger",
+    "age": 40,
+    "gender": "Female",
+    "nationality": "Swiss",
+    "occupation": "Hotel Manager",
+    "background": "Born in Basel",
+    "personality_traits": [
+      "Emotional",
+      "Cooperative",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 226k annual salary | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Direct verbal",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Brittany Hinton",
+    "age": 28,
+    "gender": "Male",
+    "nationality": "Swiss-Italian",
+    "occupation": "UN Diplomat",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Detail-oriented",
+      "Cooperative",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 139k annual salary | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Emir Wyss",
+    "age": 39,
+    "gender": "Male",
+    "nationality": "French",
+    "occupation": "Private Wealth Manager",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Emotional",
+      "Litigious",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 347k annual salary | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Formal written",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Suzanne Dougherty",
+    "age": 45,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "Commodities Trader",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Litigious",
+      "Detail-oriented",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 431k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Direct verbal",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Jason Huber",
+    "age": 68,
+    "gender": "Female",
+    "nationality": "Swiss-German",
+    "occupation": "Ski Instructor",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Detail-oriented",
+      "Detail-oriented",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Fluent English | Formal written",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Maurice Robles",
+    "age": 42,
+    "gender": "Male",
+    "nationality": "Swiss",
+    "occupation": "International Lawyer",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Cooperative",
+      "Stubborn",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Formal written",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Léo Pfister",
+    "age": 41,
+    "gender": "Non-binary",
+    "nationality": "Italian",
+    "occupation": "Associate",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Cooperative",
+      "Pragmatic",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 337k annual salary | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Italian-speaking | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Connie Smith",
+    "age": 58,
+    "gender": "Male",
+    "nationality": "Swiss",
+    "occupation": "Ski Instructor",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Cooperative",
+      "Stubborn",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 161k annual salary | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Landlord",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Jordan Mäder",
+    "age": 26,
+    "gender": "Female",
+    "nationality": "Italian",
+    "occupation": "Private Wealth Manager",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Emotional",
+      "Pragmatic",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Fluent English | Technical",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Matthew Mettler",
+    "age": 52,
+    "gender": "Female",
+    "nationality": "Swiss-Italian",
+    "occupation": "UN Diplomat",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Emotional",
+      "Cooperative",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "German-dominant | Emotional",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Joseph Curdy",
+    "age": 31,
+    "gender": "Female",
+    "nationality": "Swiss",
+    "occupation": "Ski Instructor",
+    "background": "Born in Basel",
+    "personality_traits": [
+      "Emotional",
+      "Emotional",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 401k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Randy Stöckli",
+    "age": 57,
+    "gender": "Non-binary",
+    "nationality": "Austrian",
+    "occupation": "Hotel Manager",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Cooperative",
+      "Detail-oriented",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Formal",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Manuela Kessler",
+    "age": 42,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "International Lawyer",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Detail-oriented",
+      "Pragmatic",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 150k annual salary | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "German-dominant | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Suzana Dominguez",
+    "age": 56,
+    "gender": "Male",
+    "nationality": "Swiss",
+    "occupation": "Hotel Manager",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Stubborn",
+      "Cooperative",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Direct verbal",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Maria Blake",
+    "age": 65,
+    "gender": "Female",
+    "nationality": "German",
+    "occupation": "Commodities Trader",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Stubborn",
+      "Litigious",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 10M pension assets | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "German-dominant | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Justine Schultz",
+    "age": 73,
+    "gender": "Female",
+    "nationality": "Italian",
+    "occupation": "Pharmaceutical Researcher",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Litigious",
+      "Emotional",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 10M pension assets | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Italian-speaking | Direct verbal",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Elizabeth Thorens",
+    "age": 60,
+    "gender": "Female",
+    "nationality": "Liechtensteiner",
+    "occupation": "International Lawyer",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Cooperative",
+      "Emotional",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 155k annual salary | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Landlord",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Eloïse Meyers",
+    "age": 62,
+    "gender": "Female",
+    "nationality": "Liechtensteiner",
+    "occupation": "International Lawyer",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Stubborn",
+      "Stubborn",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Formal",
+    "financial_status": "Substantial real estate holdings | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "German-dominant | Emotional",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Lawrence Nichols",
+    "age": 43,
+    "gender": "Non-binary",
+    "nationality": "Swiss",
+    "occupation": "Associate",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Litigious",
+      "Stubborn",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 116k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Formal written",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Thomas Thompson",
+    "age": 56,
+    "gender": "Male",
+    "nationality": "Swiss-Italian",
+    "occupation": "Associate",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Emotional",
+      "Detail-oriented",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "German-dominant | Direct verbal",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Fabienne Brunner",
+    "age": 76,
+    "gender": "Male",
+    "nationality": "Swiss-Italian",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Cooperative",
+      "Emotional",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 3M pension assets | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Formal written",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Pierre Butler",
+    "age": 52,
+    "gender": "Non-binary",
+    "nationality": "Liechtensteiner",
+    "occupation": "Ski Instructor",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Stubborn",
+      "Emotional",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Formal",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Multilingual mix | Direct verbal",
+    "dispute_context": {
+      "type": "Tenancy conflict",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Anisa Kern",
+    "age": 45,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "Ski Instructor",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Pragmatic",
+      "Litigious",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 211k annual salary | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Multilingual mix | Technical",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Paula Bugnon",
+    "age": 45,
+    "gender": "Female",
+    "nationality": "Swiss-German",
+    "occupation": "Pharmaceutical Researcher",
+    "background": "Born in Basel",
+    "personality_traits": [
+      "Cooperative",
+      "Stubborn",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 157k annual salary | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Dominique Lewis",
+    "age": 47,
+    "gender": "Female",
+    "nationality": "French",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Detail-oriented",
+      "Litigious",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Fluent English | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute over bonus payment",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Léa Conrad",
+    "age": 35,
+    "gender": "Female",
+    "nationality": "Italian",
+    "occupation": "Hotel Manager",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Detail-oriented",
+      "Detail-oriented",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Formal",
+    "financial_status": "Moderate savings with mortgage | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "German-dominant | Technical",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute over termination notice period",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Hakan Steiner",
+    "age": 27,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "Associate",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Stubborn",
+      "Stubborn",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 410k annual salary | No debt",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "German-dominant | Technical",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Zachary Beurret",
+    "age": 34,
+    "gender": "Male",
+    "nationality": "Swiss-Italian",
+    "occupation": "Hotel Manager",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Emotional",
+      "Detail-oriented",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Italian-speaking | Technical",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Nicolas Roth",
+    "age": 57,
+    "gender": "Female",
+    "nationality": "Swiss-German",
+    "occupation": "Pharmaceutical Researcher",
+    "background": "Born in Basel",
+    "personality_traits": [
+      "Litigious",
+      "Cooperative",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 226k annual salary | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Multilingual mix | Formal written",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Alejandro Johnson",
+    "age": 65,
+    "gender": "Female",
+    "nationality": "French",
+    "occupation": "Ski Instructor",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Emotional",
+      "Detail-oriented",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 1M pension assets | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Fluent English | Emotional",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Jennifer Baldwin",
+    "age": 73,
+    "gender": "Non-binary",
+    "nationality": "German",
+    "occupation": "Associate",
+    "background": "Former Swatch employee",
+    "personality_traits": [
+      "Detail-oriented",
+      "Emotional",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Multilingual mix | Direct verbal",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Matthew Blackburn",
+    "age": 69,
+    "gender": "Non-binary",
+    "nationality": "Swiss-Italian",
+    "occupation": "Hotel Manager",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Cooperative",
+      "Stubborn",
+      "Emotional"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 1M pension assets | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Multilingual mix | Formal written",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Spouse",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Hans Küng",
+    "age": 52,
+    "gender": "Non-binary",
+    "nationality": "Swiss-Italian",
+    "occupation": "CERN Scientist",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Stubborn",
+      "Detail-oriented",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 330k annual salary | Highly leveraged",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Danielle Peter",
+    "age": 55,
+    "gender": "Male",
+    "nationality": "Italian",
+    "occupation": "CERN Scientist",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Litigious",
+      "Cooperative",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Tenancy conflict",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 167k annual salary | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Italian-speaking | Emotional",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Marianne Jomini",
+    "age": 47,
+    "gender": "Non-binary",
+    "nationality": "Swiss-Italian",
+    "occupation": "Pharmaceutical Researcher",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Litigious",
+      "Pragmatic",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 164k annual salary | No debt",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "German-dominant | Direct verbal",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Lukas Palmer",
+    "age": 61,
+    "gender": "Female",
+    "nationality": "French",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Stubborn",
+      "Stubborn",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 7M pension assets | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Italian-speaking | Formal written",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Ioannis Chatriant",
+    "age": 45,
+    "gender": "Male",
+    "nationality": "Swiss-French",
+    "occupation": "Private Wealth Manager",
+    "background": "Former UBS employee",
+    "personality_traits": [
+      "Cooperative",
+      "Detail-oriented",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Formal",
+    "financial_status": "Moderate savings with mortgage | Some liabilities",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Multilingual mix | Direct verbal",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Michael Fuchs",
+    "age": 70,
+    "gender": "Male",
+    "nationality": "Swiss-German",
+    "occupation": "Associate",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Litigious",
+      "Cooperative",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Aggressive",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Fluent English | Direct verbal",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Government agency",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Hildegard Benz",
+    "age": 52,
+    "gender": "Non-binary",
+    "nationality": "German",
+    "occupation": "UN Diplomat",
+    "background": "Born in Lugano",
+    "personality_traits": [
+      "Litigious",
+      "Emotional",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 296k annual salary | No debt",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Multilingual mix | Technical",
+    "dispute_context": {
+      "type": "Contract breach",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Günther Schweizer",
+    "age": 64,
+    "gender": "Non-binary",
+    "nationality": "Swiss-French",
+    "occupation": "Hotel Manager",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Litigious",
+      "Cooperative",
+      "Cooperative"
+    ],
+    "legal_issue_involved": "Contract breach",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 9M pension assets | Some liabilities",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "Multilingual mix | Emotional",
+    "dispute_context": {
+      "type": "Debt collection",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Tony Brun",
+    "age": 47,
+    "gender": "Female",
+    "nationality": "German",
+    "occupation": "Commodities Trader",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Cooperative",
+      "Stubborn",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Technical",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Jean-Claude Hodel",
+    "age": 70,
+    "gender": "Male",
+    "nationality": "Swiss-Italian",
+    "occupation": "CERN Scientist",
+    "background": "Born in Zürich",
+    "personality_traits": [
+      "Pragmatic",
+      "Cooperative",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Personal injury claim",
+    "dispute_style": "Aggressive",
+    "financial_status": "CHF 9M pension assets | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Tax compliance issue",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning property damage",
+      "preferred_resolution": "Full monetary compensation"
+    }
+  },
+  {
+    "full_name": "Norina Stadelmann",
+    "age": 34,
+    "gender": "Male",
+    "nationality": "French",
+    "occupation": "Commodities Trader",
+    "background": "Educated at ETH Zürich",
+    "personality_traits": [
+      "Emotional",
+      "Litigious",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Aggressive",
+    "financial_status": "Moderate savings with mortgage | Highly leveraged",
+    "goals_in_dispute": "Financial compensation",
+    "communication_style": "German-dominant | Direct verbal",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Former employer",
+      "facts": "Dispute concerning service quality",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Steven Brown",
+    "age": 56,
+    "gender": "Male",
+    "nationality": "Swiss-Italian",
+    "occupation": "Private Wealth Manager",
+    "background": "Born in Geneva",
+    "personality_traits": [
+      "Pragmatic",
+      "Stubborn",
+      "Litigious"
+    ],
+    "legal_issue_involved": "Debt collection",
+    "dispute_style": "Formal",
+    "financial_status": "CHF 129k annual salary | No debt",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "Fluent English | Emotional",
+    "dispute_context": {
+      "type": "Inheritance dispute",
+      "opposing_party": "Business partner",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Linda Grojean",
+    "age": 62,
+    "gender": "Female",
+    "nationality": "Swiss-German",
+    "occupation": "Hotel Manager",
+    "background": "Former Roche employee",
+    "personality_traits": [
+      "Litigious",
+      "Stubborn",
+      "Pragmatic"
+    ],
+    "legal_issue_involved": "Employment termination dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Substantial real estate holdings | Some liabilities",
+    "goals_in_dispute": "Reputation protection",
+    "communication_style": "French-preferring | Formal written",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Former employer",
+      "facts": "Dispute over bonus payment",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  },
+  {
+    "full_name": "Emma Kunz",
+    "age": 75,
+    "gender": "Male",
+    "nationality": "German",
+    "occupation": "Banker (UBS/JP Morgan/LGT)",
+    "background": "Educated at HSG St. Gallen",
+    "personality_traits": [
+      "Detail-oriented",
+      "Detail-oriented",
+      "Detail-oriented"
+    ],
+    "legal_issue_involved": "Tax compliance issue",
+    "dispute_style": "Conciliatory",
+    "financial_status": "Substantial real estate holdings | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Formal written",
+    "dispute_context": {
+      "type": "Personal injury claim",
+      "opposing_party": "Landlord",
+      "facts": "Dispute concerning contract terms",
+      "preferred_resolution": "Court judgment"
+    }
+  },
+  {
+    "full_name": "Raffaele Leunberger",
+    "age": 31,
+    "gender": "Male",
+    "nationality": "German",
+    "occupation": "Ski Instructor",
+    "background": "Educated at University of Geneva",
+    "personality_traits": [
+      "Emotional",
+      "Stubborn",
+      "Stubborn"
+    ],
+    "legal_issue_involved": "Inheritance dispute",
+    "dispute_style": "Conciliatory",
+    "financial_status": "CHF 143k annual salary | Highly leveraged",
+    "goals_in_dispute": "Contract enforcement",
+    "communication_style": "French-preferring | Direct verbal",
+    "dispute_context": {
+      "type": "Employment termination dispute",
+      "opposing_party": "Government agency",
+      "facts": "Dispute over discrimination allegations",
+      "preferred_resolution": "Partial monetary compensationContract amendment"
+    }
+  }
+]
